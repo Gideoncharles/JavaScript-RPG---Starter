@@ -40,4 +40,15 @@ function fightDragon() {
   console.log("Fighting the dragon")
 }
 
+function buyHealth () {
+  
+}
+
+function buyWeapon () {
+  
+}
+
+function goTowm () {
+  
+}
 
